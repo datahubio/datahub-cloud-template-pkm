@@ -1,0 +1,23 @@
+{
+  "title": "Daniela's Handbook",
+  "description": "Welcome to my personal knowledge management system"
+}
+{
+ "navLinks": [
+  {
+   "href": "/blog",
+   "name": "Blog"
+  }, 
+  {
+   "href": "/about",
+   "name": "About"
+  }, 
+  {
+  "href": "https://twitter.com/datopian",
+  "name": "Follow me on twitter!"
+  }
+ ]
+}
+{
+  "logo": "Book.png"
+}
