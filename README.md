@@ -5,7 +5,7 @@
 
 # Hello
 
-![[Book.png]]
+![[Book.jpeg]]
 
 *(Source: https://learn.podium.school/english/book-parts/)*
 
