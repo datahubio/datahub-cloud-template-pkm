@@ -1,4 +1,7 @@
 {
+  "sideBar": true
+  }
+{
   "title": "Daniela's Handbook",
   "description": "Welcome to my personal knowledge management system"
 }
@@ -19,5 +22,5 @@
  ]
 }
 {
-  "logo": "Book.png"
+  "logo": "Book.jpeg"
 }
