@@ -1,8 +1,3 @@
-<div class="hero">
-    <h1 class="hero-title">Welcome to my world!<br/></h1>
-    <p class="hero-description">In an age where information is abundant and constantly evolving, managing knowledge efficiently is crucial. Welcome to my Personal Knowledge Management (PKM) system, a structured approach designed to help you capture, organize, and utilize information effectively.</p>
-</div>
-
 # Hello
 
 ![[Book.jpeg]]
