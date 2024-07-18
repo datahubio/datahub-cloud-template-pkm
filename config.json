@@ -11,7 +11,7 @@
     "url": "https://datahub.io/",
     "logo": "Book.jpeg"
   },
-  "navLinks": [
+  "navbarLinks": [
     { "href": "/docs", "name": "Docs" }
     { "href": "/blog", "name": "Blog" }
     { "href": "/collections", "name": "Collections" }
