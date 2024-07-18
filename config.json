@@ -8,11 +8,14 @@
   },
   "author": {
     "name": "Daniela",
-    "url": "https://datopian.com/",
+    "url": "https://datahub.io/",
     "logo": "Book.jpeg"
   },
   "navLinks": [
     { "href": "/docs", "name": "Docs" }
+    { "href": "/blog", "name": "Blog" }
+    { "href": "/collections", "name": "Collections" }
+    { "href": "https://discord.com/invite/KrRzMKU", "name": "Chat" }
   ],
   "showSidebar": true
 }
