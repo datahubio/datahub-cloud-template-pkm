@@ -1,3 +1,18 @@
 {
+    "title": "Welcome to my world!",
+  "description": "In an age where information is abundant and constantly evolving, managing knowledge efficiently is crucial. Welcome to my Personal Knowledge Management (PKM) system, a structured approach designed to help you capture, organize, and utilize information effectively.",
+  "logo": "Book.jpeg",
+  "navbarTitle": {
+    "logo": "Book.jpeg",
+    "text": "My PKM"
+  },
+  "author": {
+    "name": "Daniela",
+    "url": "https://datopian.com/",
+    "logo": "Book.jpeg"
+  },
+  "navLinks": [
+    { "href": "/docs", "name": "Docs" }
+  ],
   "showSidebar": true
 }
