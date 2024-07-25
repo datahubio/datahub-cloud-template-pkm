@@ -30,7 +30,7 @@ You can add as many markdown files to your GitHub repository as you like, and yo
 ### How to take this template to the next level
 
 <div class="middle-button-container">
-    <a href="https://datahub.io/@olayway/docs/Add%20sidebar%20navigation" class="middle-button">Add sidebar navigation</a>
+    <a href="https://datahub.io/docs/How%20to%20push%20an%20Obsidian%20vault%20to%20a%20Github%20repository" class="middle-button">How to publish my Obsidian vault</a>
 </div>
 
 <div class="middle-button-container">
