@@ -23,7 +23,7 @@ h3, h6 {
 ...
 
 .hero {
-  background-color: #efe7db;
+  background-color: #fcfaf7;
   height: 500px;
   display: flex;
   flex-direction: column;
@@ -46,7 +46,7 @@ h3, h6 {
 }
 
 .hero-button {
-  background-color: #d4e4ff;
+  background-color: #c28c3a;
   color: #333;
   padding: 10px 20px;
   border-radius: 5px;
@@ -56,8 +56,8 @@ h3, h6 {
 }
 
 .hero-button:hover {
-  background-color: #d4e4ff;
-  color: #ebdcf7;
+  background-color: #70562e;
+  color: #333;
 }
 
 .middle-button-container {
@@ -66,7 +66,7 @@ h3, h6 {
         }
 
 .middle-button {
-  background-color: #d4e4ff;
+  background-color: #c28c3a;
   color: #333;
   padding: 10px 20px;
   border-radius: 5px;
@@ -76,6 +76,6 @@ h3, h6 {
         }
 
 .middle-button:hover {
-  background-color: #ed9e0c;
+  background-color: #70562e;
   color: #333;
         }
